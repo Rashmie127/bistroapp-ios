@@ -58,7 +58,7 @@ Firebase Console:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/elonmasai7/bistroapp-ios.git
+git clone https://github.com/Rashmie127/bistroapp-ios.git
 cd bistroapp-ios
 ```
 
